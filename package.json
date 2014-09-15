@@ -1,0 +1,11 @@
+{
+  "name": "imhotep",
+  "version": "0.0.1",
+  "description": "AndrehLoL's Imhotep",
+  "main": "index.html",
+  "author": "Guilherme Oderdenge",
+  "license": "MIT",
+  "dependencies": {
+    "animate.css": "^3.1.1"
+  }
+}

@@ -1,0 +1,25 @@
+body {
+  background-image: url('../images/background.gif');
+  background-size: 100vh;
+  font-family: "Comic Sans MS", serif;
+}
+
+.infinite, .andrehlol {
+  -webkit-animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+}
+
+.lol {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  text-align: center;
+  position: relative;
+}
+
+.lolol {
+  top: 50%;
+  height: 100vh;
+  position: relative;
+  transform: translateY(25%);
+}
